@@ -11,7 +11,7 @@
 # print(Movie)
 
 
-
+#Direct Method:2
 movie=[]
 
 mov=movie.append(input("Enter The Name Of Mov1"))
