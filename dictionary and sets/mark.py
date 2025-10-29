@@ -8,5 +8,5 @@ mark.update({"Physics":Phy})
 mark.update({"Chemistry":Chem})
 mark.update({"Maths":Maths})
 
-print(type(mark))
+print(mark)
 

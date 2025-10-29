@@ -7,7 +7,7 @@
 
 
 
-
+#It IS To Sort The Element In A to D
 Student=["C","D","A","A","B","B","A"]
 
 Student.sort()

@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+91 7077856886','I Love you',12,22)
+pywhatkit.sendwhatmsg('+91 9040305645','I Love you',22,46)
