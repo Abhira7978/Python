@@ -3,7 +3,7 @@ i=1
 
 while i<=10:
     mul=n*i
-    print(n"*"i"="mul)
+    print(mul)
     i+=1
 
 
